@@ -8,8 +8,8 @@
 
 I'm Rendi Dwi Kurniasandi, Software Engineering Fresh Graduate at Vocational Highschool 1 Majalengka.Website,Robotics, Flutter, and Machine Learning Enthusiast. 
 
-<!-- <img align="right" alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-13&theme=radical&show_icons=true&hide_border=true&line_height=24"/>
- -->
+<img align="right" alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sniren210&theme=radical&show_icons=true&hide_border=true&line_height=24"/>
+
 
 **About My Personality**
 
@@ -18,7 +18,7 @@ I'm Rendi Dwi Kurniasandi, Software Engineering Fresh Graduate at Vocational Hig
 - currently learn Node Js and Flutter fundamental :computer:
 - My other skills Photoshop and Premiere Pro for Editing :video_camera:
 
-<!-- <img alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api?username=Adithya-13&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/> -->
+<img alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api?username=sniren210&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
 
 <details>
   <summary><b>My WakaTime!</b></summary>
