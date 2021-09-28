@@ -1,27 +1,24 @@
 
-## Hello World!, I'm Adithya Firmansyah Putra, Mobile Developer!
+## Hello World!, I'm Rendi Dwi Kurniasandi, Web Front end and Back end Developer!
 
-[![Kotakode Badge](https://img.shields.io/badge/-Kotakode-green?style=plastic&logo=Kotakode&link=https://kotakode.com/users/527/adithya-13)](https://kotakode.com/users/527/adithya-13)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:aditputrafirmansyah@gmail.com)](mailto:aditputrafirmansyah@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/aditputrafirmansyah/)](https://www.linkedin.com/in/aditputrafirmansyah/) 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&link=https://t.me/Adithya_13)](https://t.me/Adithya_13) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/adithya_firmansyahputra/)](https://www.instagram.com/adithya_firmansyahputra/)
-![Adithya-13 Stars](https://img.shields.io/github/stars/Adithya-13?affiliations=OWNER&style=social)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:sniren2002@gmail.com)](mailto:sniren2002@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/rendi-dwi-kurniasandi-9442571b6/)](https://www.linkedin.com/in/rendi-dwi-kurniasandi-9442571b6/) 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&link=https://t.me/Adithya_13)](https://t.me/Blank202) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/r3ndks/)](https://www.instagram.com/r3ndks/)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adithya-13.Adithya-13)
+I'm Rendi Dwi Kurniasandi, Software Engineering Fresh Graduate at Vocational Highschool 1 Majalengka.Website,Robotics, Flutter, and Machine Learning Enthusiast. 
 
-I'm Adithya Firmansyah Putra, Software Engineering Student at Vocational Highschool 1 Majalengka. Android, Flutter, and Machine Learning Enthusiast. You can reach me on [this page](https://msha.ke/adithya_13/)
-
-<img align="right" alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-13&theme=radical&show_icons=true&hide_border=true&line_height=24"/>
+<!-- <img align="right" alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-13&theme=radical&show_icons=true&hide_border=true&line_height=24"/>
+ -->
 
 **About My Personality**
 
-- My Hobby is Playing Basketball, Guitar :basketball: :guitar: 
-- I live in Sindangkasih, Majalengka, West Java, Indonesia :house:
-- currently learn Python Machine Learning and Flutter fundamental :computer:
+- My Hobby is Watch Anime, Guitar :anime: :guitar: 
+- I live in Majasuka, Majalengka, West Java, Indonesia :house:
+- currently learn Node Js and Flutter fundamental :computer:
 - My other skills Photoshop and Premiere Pro for Editing :video_camera:
 
-<img alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api?username=Adithya-13&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
+<!-- <img alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api?username=Adithya-13&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/> -->
 
 <details>
   <summary><b>My WakaTime!</b></summary>
@@ -60,18 +57,18 @@ Sunday       144 commits    ██████░░░░░░░░░░░�
 
 💬 Programming Languages: 
 Dart                     14 hrs 28 mins      ███████████████████░░░░░░   76.7% 
-HTML                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
-PHP                      37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
-YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21% 
-JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
+HTML                     2 hrs               ████████████████░░░░░░░░░   10.62% 
+PHP                      37 mins             ████████████████░░░░░░░░░   3.33% 
+YAML                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   2.21% 
+JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   2.11%
 
 🔥 Editors: 
-Android Studio           18 hrs 8 mins       ████████████████████████░   96.12% 
-VS Code                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.88%
+VS Code                         18 hrs 8 mins       ████████████████████████░   96.12% 
+Android Studio                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.88%
 
 💻 Operating System: 
-Mac                      18 hrs 8 mins       ████████████████████████░   96.12% 
-Windows                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.88%
+Windows                      18 hrs 8 mins       ████████████████████████░   96.12% 
+Mac                          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.88%
 
 ```
 
