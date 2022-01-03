@@ -6,7 +6,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&link=https://t.me/Adithya_13)](https://t.me/Blank202) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/r3ndks/)](https://www.instagram.com/r3ndks/)
 
-I'm Rendi Dwi Kurniasandi, Software Engineering Fresh Graduate at Vocational Highschool 1 Majalengka.Website,Robotics, Flutter, and Machine Learning Enthusiast. 
+I'm Rendi Dwi Kurniasandi, Software Engineering Fresh Graduate at Vocational Highschool 1 Majalengka.Website,Robotics, Flutter, and Machine Learning Enthusiast.You can reach me on [this page](https://sniren210.github.io/)
+ 
 
 <img align="right" alt="sniren210's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sniren210&theme=radical&show_icons=true&hide_border=true&line_height=24"/>
 
