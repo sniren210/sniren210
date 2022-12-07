@@ -41,4 +41,4 @@ jobs:
 #         continue-on-error: true
         env:
           COMMIT_MESSAGE: "feat: update waka"
-        run: git commit -m "${{ env.COMMIT_MESSAGE }}" -a
+        run: git add . && git commit -m "${{ env.COMMIT_MESSAGE }}" -a
