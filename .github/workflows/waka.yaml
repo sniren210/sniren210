@@ -11,6 +11,15 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+        with:
+          clean: false
+          
+      - name: Setup git
+        run: |
+          git config --local user.email "sniren2002@gmail.com"
+          git config --local user.name "sniren210"
+
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -29,7 +38,7 @@ jobs:
           SHOW_LOC_CHART: "False"
 
       - name: Commit files
-        continue-on-error: true
+#         continue-on-error: true
         env:
           COMMIT_MESSAGE: "feat: update waka"
-        run: git commit -m "${{ env.COMMIT_MESSAGE }}" -a
+        run: git add . && git commit -m "${{ env.COMMIT_MESSAGE }}" -a
