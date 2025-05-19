@@ -64,7 +64,11 @@ I'm Rendi Dwi Kurniasandi, Software Engineering Fresh Graduate at Vocational Hig
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sniren210/sniren210/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sniren210/sniren210/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sniren210/sniren210/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sniren210/sniren210/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -84,55 +88,53 @@ I'm Rendi Dwi Kurniasandi, Software Engineering Fresh Graduate at Vocational Hig
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                723 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-🌆 Daytime                3218 commits        ████████████░░░░░░░░░░░░░   47.53 % 
-🌃 Evening                1989 commits        ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-🌙 Night                  841 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+🌞 Morning                723 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+🌆 Daytime                3218 commits        ████████████░░░░░░░░░░░░░   47.53 %
+🌃 Evening                1989 commits        ███████░░░░░░░░░░░░░░░░░░   29.38 %
+🌙 Night                  841 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
 ```
-📅 **I'm Most Productive on Thursday** 
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday                   1334 commits        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Tuesday                  1153 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Wednesday                994 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Thursday                 1422 commits        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Friday                   1240 commits        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Saturday                 181 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Sunday                   447 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Monday                   1334 commits        █████░░░░░░░░░░░░░░░░░░░░   19.70 %
+Tuesday                  1153 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 %
+Wednesday                994 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 %
+Thursday                 1422 commits        █████░░░░░░░░░░░░░░░░░░░░   21.00 %
+Friday                   1240 commits        █████░░░░░░░░░░░░░░░░░░░░   18.31 %
+Saturday                 181 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Sunday                   447 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Dart** 
+**I Mostly Code in Dart**
 
 ```text
-Dart                     29 repos            ███████░░░░░░░░░░░░░░░░░░   28.71 % 
-JavaScript               25 repos            ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-TypeScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Dart                     29 repos            ███████░░░░░░░░░░░░░░░░░░   28.71 %
+JavaScript               25 repos            ██████░░░░░░░░░░░░░░░░░░░   24.75 %
+TypeScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
+Last Updated on 19/05/2025 13:28:02 UTC
 
-
-
- Last Updated on 19/05/2025 13:28:02 UTC
 <!--END_SECTION:waka-->
 </details>
