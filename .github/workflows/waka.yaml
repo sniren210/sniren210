@@ -1,12 +1,13 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
   schedule:
     # Runs daily at 22:00 UTC (equivalent to 6:00 AM UTC+8).
     # This cron expression schedules the workflow to run daily at 22:00 UTC.
     # For more details on cron syntax, visit: https://crontab.guru/
     - cron: "0 22 * * *"
+
+  workflow_dispatch:
 
 jobs:
   update-readme:
