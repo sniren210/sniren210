@@ -1,13 +1,13 @@
-<h2 align="left">Hi 👋! My name is Rendi Dwi Kurniasandi and I'm a Fullstack Developer</h2>
+<h2 align="left">Hi 👋! I'm Rendi Dwi Kurniasandi - A Passionate Fullstack Developer</h2>
 
-I'm Rendi Dwi Kurniasandi, Software Engineering Fresh Graduate at Vocational Highschool 1 Majalengka.Website,Robotics, Flutter, and Machine Learning Enthusiast.You can reach me on [this page](https://sniren210.github.io/)
+I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a degree in Information Systems. With a deep passion for Web Development, Robotics, Flutter, and emerging technologies, I strive to create innovative solutions that make a difference. Explore my work and projects at [my portfolio](https://sniren210.github.io/)
+**About Me**
 
-**About My Personality**
-
-- My Hobby is Watch Anime, Guitar :anime: :guitar:
-- I live in Majasuka, Majalengka, West Java, Indonesia :house:
-- currently learn Node Js and Flutter fundamental :computer:
-- My other skills Photoshop and Premiere Pro for Editing :video_camera:
+- 🎯 Enthusiastic about Anime and playing Guitar - finding creativity in both code and music
+- 🏠 Based in the beautiful city of Majasuka, Majalengka, West Java, Indonesia
+- 📚 Currently expanding my expertise in Artificial Intelligence, IoT Development, and Advanced Flutter Architecture
+- 🎨 Proficient in Creative Tools: Adobe Photoshop and Premiere Pro for professional content creation
+- 🤖 Actively exploring Machine Learning frameworks and IoT sensor integration for smart solutions
 
 <br clear="both">
 
