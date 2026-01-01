@@ -92,9 +92,9 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
   <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-611%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%2058%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.89%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -123,17 +123,17 @@ Sunday                   523 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               14 hrs 41 mins      ███████████████████░░░░░░   76.68 % 
-JSON                     2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Markdown                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+TypeScript               11 hrs 17 mins      ████████████████████░░░░░   81.53 % 
+JSON                     2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 50 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  19 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -149,6 +149,6 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 22:24:29 UTC
+ Last Updated on 01/01/2026 22:24:09 UTC
 <!--END_SECTION:waka-->
 </details>
