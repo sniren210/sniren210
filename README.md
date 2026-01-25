@@ -92,7 +92,7 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
   <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-622%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.82%20million%20lines%20of%20code-blue?style=flat)
 
@@ -123,15 +123,17 @@ Sunday                   523 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               4 hrs 28 mins       ███████████████████████░░   93.58 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+TypeScript               5 hrs 22 mins       ██████████████████░░░░░░░   70.91 % 
+Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Bash                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -147,6 +149,6 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2026 22:25:04 UTC
+ Last Updated on 25/01/2026 22:24:47 UTC
 <!--END_SECTION:waka-->
 </details>
