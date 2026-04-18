@@ -92,23 +92,62 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
   <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-745%20hrs%2053%20mins-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.28%20million%20lines%20of%20code-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.27%20million%20lines%20of%20code-blue?style=flat)
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                696 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+🌆 Daytime                1885 commits        ████████░░░░░░░░░░░░░░░░░   32.86 % 
+🌃 Evening                1512 commits        ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+🌙 Night                  1643 commits        ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   961 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Tuesday                  1012 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Wednesday                903 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Thursday                 1201 commits        █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Friday                   639 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Saturday                 489 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Sunday                   531 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               4 hrs 48 mins       ███████████░░░░░░░░░░░░░░   44.11 % 
+Other                    2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Bash                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+
+🔥 Editors: 
+VS Code                  10 hrs 54 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      7 hrs 28 mins       █████████████████░░░░░░░░   68.52 % 
+Windows                  3 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   31.48 % 
+```
 
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     33 repos            ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-TypeScript               21 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-HTML                     13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-PHP                      11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Dart                     33 repos            ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+TypeScript               22 repos            █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+HTML                     13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+PHP                      11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 
 
 
- Last Updated on 17/04/2026 22:42:52 UTC
+ Last Updated on 18/04/2026 22:39:07 UTC
 <!--END_SECTION:waka-->
 </details>
