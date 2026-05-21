@@ -92,9 +92,7 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
   <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-819%20hrs%2017%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.67%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.68%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Dart** 
 
@@ -109,6 +107,6 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2026 23:17:29 UTC
+ Last Updated on 21/05/2026 23:07:01 UTC
 <!--END_SECTION:waka-->
 </details>
