@@ -81,7 +81,7 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=sniren210&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=sniren210&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sniren210&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -96,60 +96,58 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.77%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                754 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-🌆 Daytime                2055 commits        ████████░░░░░░░░░░░░░░░░░   33.30 % 
-🌃 Evening                1601 commits        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-🌙 Night                  1761 commits        ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+🌞 Morning                754 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
+🌆 Daytime                2055 commits        ████████░░░░░░░░░░░░░░░░░   33.30 %
+🌃 Evening                1601 commits        ██████░░░░░░░░░░░░░░░░░░░   25.94 %
+🌙 Night                  1761 commits        ███████░░░░░░░░░░░░░░░░░░   28.54 %
 ```
-📅 **I'm Most Productive on Thursday** 
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday                   1013 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Tuesday                  1099 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Wednesday                985 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Thursday                 1298 commits        █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Friday                   663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Saturday                 547 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Sunday                   566 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Monday                   1013 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+Tuesday                  1099 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.81 %
+Wednesday                985 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+Thursday                 1298 commits        █████░░░░░░░░░░░░░░░░░░░░   21.03 %
+Friday                   663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 %
+Saturday                 547 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Sunday                   566 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages: 
-TypeScript               11 hrs 31 mins      ███████████████████░░░░░░   77.72 % 
-Markdown                 2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-HTML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+💬 Programming Languages:
+TypeScript               11 hrs 31 mins      ███████████████████░░░░░░   77.72 %
+Markdown                 2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.04 %
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+HTML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 
-🔥 Editors: 
-VS Code                  14 hrs 49 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  14 hrs 49 mins      █████████████████████████   100.00 %
 
-💻 Operating System: 
-Mac                      14 hrs 24 mins      ████████████████████████░   97.13 % 
-Windows                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+💻 Operating System:
+Mac                      14 hrs 24 mins      ████████████████████████░   97.13 %
+Windows                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
-**I Mostly Code in Dart** 
+**I Mostly Code in Dart**
 
 ```text
-Dart                     33 repos            ███████░░░░░░░░░░░░░░░░░░   27.05 % 
-TypeScript               22 repos            █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-PHP                      11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Dart                     33 repos            ███████░░░░░░░░░░░░░░░░░░   27.05 %
+TypeScript               22 repos            █████░░░░░░░░░░░░░░░░░░░░   18.03 %
+PHP                      11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
+Last Updated on 11/06/2026 23:25:47 UTC
 
-
-
- Last Updated on 11/06/2026 23:25:47 UTC
 <!--END_SECTION:waka-->
 </details>
