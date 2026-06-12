@@ -1,6 +1,7 @@
-<h2 align="left">Hi 👋! I'm Rendi Dwi Kurniasandi - A Passionate Fullstack Developer</h2>
+<h2 align="left">Hi 👋! I'm Rendi Dwi Kurniasandi - A Passionate Software Engineer</h2>
 
 I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a degree in Information Systems. With a deep passion for Web Development, Robotics, Flutter, and emerging technologies, I strive to create innovative solutions that make a difference. Explore my work and projects at [my portfolio](https://sniren210.github.io/)
+
 **About Me**
 
 - 🎯 Enthusiastic about Anime and playing Guitar - finding creativity in both code and music
@@ -11,11 +12,11 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
 
 <br clear="both">
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sniren210&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sniren210&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<br clear="both">
+<br clear="both"> -->
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThmN3RsamYxYnVta3ZxODQzMDd5ZzAxOWNnY2c3cG40NGF5ZnI2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
