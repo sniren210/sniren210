@@ -93,6 +93,8 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
   <br>
   
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%207%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.91%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -122,19 +124,19 @@ Sunday                   569 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               6 hrs 47 mins       ███████████████░░░░░░░░░░   59.24 % 
-Docker                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+TypeScript               6 hrs 47 mins       ████████████████░░░░░░░░░   62.68 % 
+Docker                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+YAML                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 42 mins       ████████████░░░░░░░░░░░░░   49.85 % 
-VS Code                  5 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.32 % 
-Antigravity Desktop      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+VS Code                  5 hrs 32 mins       █████████████░░░░░░░░░░░░   51.12 % 
+Claude Code              5 hrs 5 mins        ████████████░░░░░░░░░░░░░   46.94 % 
+Antigravity Desktop      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 💻 Operating System: 
-Mac                      11 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -150,6 +152,6 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 23:06:32 UTC
+ Last Updated on 25/07/2026 22:59:21 UTC
 <!--END_SECTION:waka-->
 </details>
