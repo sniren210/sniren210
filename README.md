@@ -124,19 +124,19 @@ Sunday                   569 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               6 hrs 47 mins       ████████████████░░░░░░░░░   62.68 % 
-Docker                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-YAML                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+TypeScript               8 hrs 52 mins       ██████████████████░░░░░░░   72.51 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+CSS                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Docker                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 32 mins       █████████████░░░░░░░░░░░░   51.12 % 
-Claude Code              5 hrs 5 mins        ████████████░░░░░░░░░░░░░   46.94 % 
-Antigravity Desktop      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+VS Code                  7 hrs 6 mins        ███████████████░░░░░░░░░░   58.05 % 
+Claude Code              4 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   40.23 % 
+Antigravity Desktop      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 💻 Operating System: 
-Mac                      10 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -152,6 +152,6 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 22:59:21 UTC
+ Last Updated on 26/07/2026 23:02:14 UTC
 <!--END_SECTION:waka-->
 </details>
