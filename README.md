@@ -93,30 +93,30 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
   <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-996%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-318%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-321%20hrs%2042%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.91%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.96%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-🌆 Daytime                2155 commits        █████████░░░░░░░░░░░░░░░░   34.11 % 
-🌃 Evening                1614 commits        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-🌙 Night                  1761 commits        ███████░░░░░░░░░░░░░░░░░░   27.88 % 
+🌞 Morning                787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+🌆 Daytime                2163 commits        █████████░░░░░░░░░░░░░░░░   34.20 % 
+🌃 Evening                1614 commits        ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+🌙 Night                  1761 commits        ███████░░░░░░░░░░░░░░░░░░   27.84 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1021 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Tuesday                  1130 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Wednesday                998 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Thursday                 1351 commits        █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-Friday                   701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Saturday                 547 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Sunday                   569 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Monday                   1021 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Tuesday                  1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Wednesday                998 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Thursday                 1355 commits        █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Friday                   704 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Saturday                 547 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Sunday                   569 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 ```
 
 
@@ -126,46 +126,46 @@ Sunday                   569 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               11 hrs 51 mins      ███████████████████░░░░░░   74.67 % 
-JSON                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-CSS                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+TypeScript               11 hrs 57 mins      ███████████████████░░░░░░   76.99 % 
+Other                    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+JSON                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 23 mins       ████████████░░░░░░░░░░░░░   46.57 % 
-Claude Code              4 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.11 % 
-Codex CLI                2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Antigravity Desktop      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+VS Code                  7 hrs 46 mins       █████████████░░░░░░░░░░░░   50.06 % 
+Claude Code              3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+Codex CLI                2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Antigravity Desktop      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 
 💻 Operating System: 
-Mac                      15 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 35 mins (73.03%)
+⏱ AI Coding Time: 10 hrs 53 mins (70.16%)
 
-✍️ 12,566 lines written by AI, 763 lines written by hand (94.28% AI-written)
+✍️ 10,816 lines written by AI, 1,095 lines written by hand (90.81% AI-written)
 
-🔤 80,774,817 Input Tokens, 383,159 Output Tokens
+🔤 72,998,499 Input Tokens, 357,838 Output Tokens
 
-💵 $329.22 Estimated AI Cost This Week
+💵 $316.69 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 247 AI Prompts
+🧠 52 AI Sessions, 212 AI Prompts
 
-Sonnet                   14,515 lines        █████████████████████████   99.91 % 
-Antigravity-Desktop      13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Sonnet                   12,834 lines        █████████████████████████   99.90 % 
+Antigravity-Desktop      13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.28% of written lines came from AI
-📝 Concise Prompter — average 328 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 22.04% of changed lines were hand-edited
+🤖 AI-Driven — 90.81% of written lines came from AI
+📝 Concise Prompter — average 375 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 27.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -181,6 +181,6 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 23:11:27 UTC
+ Last Updated on 31/07/2026 23:04:02 UTC
 <!--END_SECTION:waka-->
 </details>
