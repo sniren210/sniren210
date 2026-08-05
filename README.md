@@ -93,9 +93,9 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
   <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-999%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C006%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-322%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-328%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.96%20million%20lines%20of%20code-blue?style=flat)
 
@@ -126,46 +126,46 @@ Sunday                   569 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               11 hrs 50 mins      ███████████████████░░░░░░   75.25 % 
-Other                    1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               11 hrs 24 mins      ███████████████████░░░░░░   76.48 % 
+Other                    1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 47 mins       ████████████████░░░░░░░░░   62.22 % 
-Codex CLI                4 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-Antigravity Desktop      1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Claude Code              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+VS Code                  9 hrs 50 mins       █████████████████░░░░░░░░   66.01 % 
+Codex CLI                3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+Antigravity Desktop      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Mac                      15 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 54 mins (69.36%)
+⏱ AI Coding Time: 10 hrs 36 mins (71.19%)
 
-✍️ 3,502 lines written by AI, 1,175 lines written by hand (74.88% AI-written)
+✍️ 7,203 lines written by AI, 907 lines written by hand (88.82% AI-written)
 
-🔤 68,539,405 Input Tokens, 286,412 Output Tokens
+🔤 79,178,632 Input Tokens, 340,462 Output Tokens
 
-💵 $306.08 Estimated AI Cost This Week
+💵 $331.88 Estimated AI Cost This Week
 
-🧠 68 AI Sessions, 202 AI Prompts
+🧠 49 AI Sessions, 153 AI Prompts
 
-M                        2,782 lines         ██████████████████░░░░░░░   71.39 % 
-Gemini                   665 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Sonnet                   436 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Antigravity-Desktop      14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+M                        7,027 lines         ██████████████████████░░░   86.44 % 
+Gemini                   665 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Sonnet                   436 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Antigravity-Desktop      1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.88% of written lines came from AI
-📄 Detailed Prompter — average 635 characters per prompt
+🤖 AI-Driven — 88.82% of written lines came from AI
+📄 Detailed Prompter — average 819 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 60.81% of changed lines were hand-edited
+🚀 High AI Trust — 37.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -181,6 +181,6 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 23:07:12 UTC
+ Last Updated on 05/08/2026 23:02:32 UTC
 <!--END_SECTION:waka-->
 </details>
