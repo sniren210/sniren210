@@ -126,28 +126,28 @@ Sunday                   569 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               12 hrs 25 mins      ██████████████████░░░░░░░   72.28 % 
-PHP                      1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-CSS                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+TypeScript               12 hrs              ██████████████████░░░░░░░   71.67 % 
+PHP                      1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+CSS                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 7 mins       █████████████████████░░░░   82.21 % 
-Codex CLI                2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Antigravity Desktop      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+VS Code                  13 hrs 42 mins      ████████████████████░░░░░   81.77 % 
+Codex CLI                2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Antigravity Desktop      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Mac                      17 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 45 mins (68.41%)
+⏱ AI Coding Time: 11 hrs 45 mins (70.12%)
 
-✍️ 11,707 lines written by AI, 1,403 lines written by hand (89.3% AI-written)
+✍️ 11,707 lines written by AI, 1,347 lines written by hand (89.68% AI-written)
 
 🔤 97,834,739 Input Tokens, 526,402 Output Tokens
 
@@ -162,10 +162,10 @@ Antigravity-Desktop      1 lines             ░░░░░░░░░░░�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.3% of written lines came from AI
+🤖 AI-Driven — 89.68% of written lines came from AI
 📄 Detailed Prompter — average 1,308 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 26.56% of changed lines were hand-edited
+🚀 High AI Trust — 26.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -181,6 +181,6 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 22:32:15 UTC
+ Last Updated on 09/08/2026 22:34:27 UTC
 <!--END_SECTION:waka-->
 </details>
