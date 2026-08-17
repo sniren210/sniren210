@@ -126,42 +126,42 @@ Sunday                   569 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               13 hrs 50 mins      ██████████████████████░░░   86.00 % 
-Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-PHP                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+TypeScript               8 hrs 51 mins       ██████████████████████░░░   86.88 % 
+Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+PHP                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 58 mins      █████████████████████████   99.25 % 
-Antigravity Desktop      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+VS Code                  10 hrs 7 mins       █████████████████████████   99.22 % 
+Antigravity Desktop      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Mac                      16 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 18 mins (70.33%)
+⏱ AI Coding Time: 6 hrs 52 mins (67.43%)
 
-✍️ 3,789 lines written by AI, 581 lines written by hand (86.7% AI-written)
+✍️ 3,352 lines written by AI, 501 lines written by hand (87.0% AI-written)
 
-🔤 71,821,117 Input Tokens, 371,720 Output Tokens
+🔤 46,779,143 Input Tokens, 244,485 Output Tokens
 
-💵 $282.29 Estimated AI Cost This Week
+💵 $186.18 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 165 AI Prompts
+🧠 15 AI Sessions, 98 AI Prompts
 
-M                        5,015 lines         █████████████████████████   100.00 % 
+M                        4,502 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.7% of written lines came from AI
-📄 Detailed Prompter — average 634 characters per prompt
+🤖 AI-Driven — 87.0% of written lines came from AI
+📄 Detailed Prompter — average 851 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 20.57% of changed lines were hand-edited
+🚀 High AI Trust — 18.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -177,6 +177,6 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 22:24:35 UTC
+ Last Updated on 17/08/2026 22:28:46 UTC
 <!--END_SECTION:waka-->
 </details>
