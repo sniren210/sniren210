@@ -102,21 +102,21 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                793 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-🌆 Daytime                2201 commits        █████████░░░░░░░░░░░░░░░░   34.53 % 
-🌃 Evening                1619 commits        ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-🌙 Night                  1761 commits        ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+🌞 Morning                795 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+🌆 Daytime                2201 commits        █████████░░░░░░░░░░░░░░░░   34.52 % 
+🌃 Evening                1619 commits        ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+🌙 Night                  1761 commits        ███████░░░░░░░░░░░░░░░░░░   27.62 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   1039 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Tuesday                  1142 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Wednesday                1000 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Thursday                 1362 commits        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-Friday                   715 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Tuesday                  1144 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Wednesday                1000 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Thursday                 1362 commits        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+Friday                   715 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
 Saturday                 547 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Sunday                   569 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Sunday                   569 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
 ```
 
 
@@ -126,42 +126,43 @@ Sunday                   569 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               8 hrs 51 mins       ██████████████████████░░░   86.88 % 
-Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-PHP                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+TypeScript               8 hrs 10 mins       █████████████████░░░░░░░░   66.89 % 
+PHP                      1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 7 mins       █████████████████████████   99.22 % 
-Antigravity Desktop      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+VS Code                  10 hrs 32 mins      ██████████████████████░░░   86.28 % 
+Antigravity Desktop      1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 💻 Operating System: 
-Mac                      10 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 52 mins (67.43%)
+⏱ AI Coding Time: 9 hrs 12 mins (75.34%)
 
-✍️ 3,352 lines written by AI, 501 lines written by hand (87.0% AI-written)
+✍️ 3,486 lines written by AI, 548 lines written by hand (86.42% AI-written)
 
-🔤 46,779,143 Input Tokens, 244,485 Output Tokens
+🔤 58,064,802 Input Tokens, 298,138 Output Tokens
 
-💵 $186.18 Estimated AI Cost This Week
+💵 $230.63 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 98 AI Prompts
+🧠 21 AI Sessions, 113 AI Prompts
 
-M                        4,502 lines         █████████████████████████   100.00 % 
+M                        4,315 lines         █████████████████████████   98.90 % 
+Sonnet                   48 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.0% of written lines came from AI
-📄 Detailed Prompter — average 851 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 18.41% of changed lines were hand-edited
+🤖 AI-Driven — 86.42% of written lines came from AI
+📄 Detailed Prompter — average 804 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 24.93% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -177,6 +178,6 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 22:28:46 UTC
+ Last Updated on 18/08/2026 22:27:44 UTC
 <!--END_SECTION:waka-->
 </details>
