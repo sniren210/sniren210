@@ -93,9 +93,9 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
   <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C030%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C033%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-345%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-349%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.01%20million%20lines%20of%20code-blue?style=flat)
 
@@ -126,43 +126,43 @@ Sunday                   569 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               8 hrs 10 mins       █████████████████░░░░░░░░   66.89 % 
-PHP                      1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TypeScript               6 hrs 10 mins       █████████████░░░░░░░░░░░░   51.83 % 
+PHP                      3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+Markdown                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 32 mins      ██████████████████████░░░   86.28 % 
-Antigravity Desktop      1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+VS Code                  9 hrs 25 mins       ████████████████████░░░░░   79.08 % 
+Antigravity Desktop      2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Claude Code              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 💻 Operating System: 
-Mac                      12 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 12 mins (75.34%)
+⏱ AI Coding Time: 9 hrs 14 mins (77.67%)
 
-✍️ 3,486 lines written by AI, 548 lines written by hand (86.42% AI-written)
+✍️ 8,057 lines written by AI, 443 lines written by hand (94.79% AI-written)
 
-🔤 58,064,802 Input Tokens, 298,138 Output Tokens
+🔤 52,690,290 Input Tokens, 282,720 Output Tokens
 
-💵 $230.63 Estimated AI Cost This Week
+💵 $209.70 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 113 AI Prompts
+🧠 23 AI Sessions, 116 AI Prompts
 
-M                        4,315 lines         █████████████████████████   98.90 % 
-Sonnet                   48 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+M                        7,100 lines         █████████████████████████   98.84 % 
+Sonnet                   83 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.42% of written lines came from AI
-📄 Detailed Prompter — average 804 characters per prompt
+🤖 AI-Driven — 94.79% of written lines came from AI
+📄 Detailed Prompter — average 842 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 24.93% of changed lines were hand-edited
+🚀 High AI Trust — 13.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -178,6 +178,6 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 22:27:44 UTC
+ Last Updated on 19/08/2026 22:29:06 UTC
 <!--END_SECTION:waka-->
 </details>
