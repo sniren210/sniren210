@@ -93,9 +93,9 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
   <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C054%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C058%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-368%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-371%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.05%20million%20lines%20of%20code-blue?style=flat)
 
@@ -126,45 +126,45 @@ Sunday                   569 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      10 hrs 48 mins      ████████████░░░░░░░░░░░░░   49.25 % 
-TypeScript               6 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-Markdown                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-JavaScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+PHP                      9 hrs 27 mins       ███████████░░░░░░░░░░░░░░   44.25 % 
+TypeScript               6 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.73 % 
+JavaScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 9 mins       █████████████████░░░░░░░░   69.08 % 
-Antigravity Desktop      6 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.13 % 
-Claude Code              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+VS Code                  16 hrs 11 mins      ███████████████████░░░░░░   75.75 % 
+Antigravity Desktop      5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Mac                      21 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 7 mins (91.73%)
+⏱ AI Coding Time: 18 hrs 38 mins (87.18%)
 
-✍️ 15,067 lines written by AI, 694 lines written by hand (95.6% AI-written)
+✍️ 13,048 lines written by AI, 869 lines written by hand (93.76% AI-written)
 
-🔤 104,915,636 Input Tokens, 439,980 Output Tokens
+🔤 107,309,534 Input Tokens, 467,201 Output Tokens
 
-💵 $398.63 Estimated AI Cost This Week
+💵 $405.03 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 294 AI Prompts
+🧠 34 AI Sessions, 251 AI Prompts
 
-M                        16,083 lines        ████████████████████████░   96.90 % 
-Gemini                   299 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Sonnet                   136 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Github-Copilot           80 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+M                        14,003 lines        █████████████████████████   98.12 % 
+Gemini                   152 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Github-Copilot           80 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Sonnet                   37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.6% of written lines came from AI
-📄 Detailed Prompter — average 1,250 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 5.16% of changed lines were hand-edited
+🤖 AI-Driven — 93.76% of written lines came from AI
+📄 Detailed Prompter — average 1,414 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 6.93% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -180,6 +180,6 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 03:02:28 UTC
+ Last Updated on 28/08/2026 06:03:07 UTC
 <!--END_SECTION:waka-->
 </details>
