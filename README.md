@@ -102,21 +102,21 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                797 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-🌆 Daytime                2219 commits        █████████░░░░░░░░░░░░░░░░   34.67 % 
-🌃 Evening                1623 commits        ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-🌙 Night                  1761 commits        ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+🌞 Morning                797 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+🌆 Daytime                2220 commits        █████████░░░░░░░░░░░░░░░░   34.65 % 
+🌃 Evening                1629 commits        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
+🌙 Night                  1761 commits        ███████░░░░░░░░░░░░░░░░░░   27.49 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1043 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Tuesday                  1144 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Wednesday                1001 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Thursday                 1367 commits        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Friday                   728 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Saturday                 547 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Sunday                   570 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Monday                   1050 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Tuesday                  1144 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Wednesday                1001 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Thursday                 1367 commits        █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+Friday                   728 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Saturday                 547 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Sunday                   570 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 ```
 
 
@@ -126,43 +126,43 @@ Sunday                   570 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      8 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.73 % 
-TypeScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   36.64 % 
-Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-SQL                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+PHP                      7 hrs 35 mins       ██████████████░░░░░░░░░░░   56.79 % 
+TypeScript               2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+SQL                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 40 mins      ███████████████████░░░░░░   75.08 % 
-Antigravity Desktop      4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Claude Code              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+VS Code                  11 hrs 56 mins      ██████████████████████░░░   89.29 % 
+Antigravity Desktop      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Claude Code              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 💻 Operating System: 
-Mac                      18 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 24 mins (84.57%)
+⏱ AI Coding Time: 10 hrs 10 mins (76.13%)
 
-✍️ 10,480 lines written by AI, 831 lines written by hand (92.65% AI-written)
+✍️ 9,425 lines written by AI, 730 lines written by hand (92.81% AI-written)
 
-🔤 80,986,009 Input Tokens, 373,793 Output Tokens
+🔤 65,223,990 Input Tokens, 335,450 Output Tokens
 
-💵 $304.68 Estimated AI Cost This Week
+💵 $247.82 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 199 AI Prompts
+🧠 30 AI Sessions, 130 AI Prompts
 
-M                        11,338 lines        █████████████████████████   99.30 % 
-Github-Copilot           80 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+M                        10,665 lines        █████████████████████████   99.26 % 
+Github-Copilot           80 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.65% of written lines came from AI
-📄 Detailed Prompter — average 1,408 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 16.36% of changed lines were hand-edited
+🤖 AI-Driven — 92.81% of written lines came from AI
+📚 Verbose Prompter — average 1,606 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 15.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -178,6 +178,6 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 00:17:36 UTC
+ Last Updated on 01/09/2026 01:05:31 UTC
 <!--END_SECTION:waka-->
 </details>
