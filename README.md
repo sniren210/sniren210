@@ -103,19 +103,19 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
 
 ```text
 🌞 Morning                797 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-🌆 Daytime                2234 commits        █████████░░░░░░░░░░░░░░░░   34.78 % 
+🌆 Daytime                2235 commits        █████████░░░░░░░░░░░░░░░░   34.79 % 
 🌃 Evening                1631 commits        ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-🌙 Night                  1761 commits        ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+🌙 Night                  1761 commits        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1050 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Monday                   1051 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
 Tuesday                  1149 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 Wednesday                1002 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
 Thursday                 1369 commits        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
 Friday                   736 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Saturday                 547 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Saturday                 547 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 Sunday                   570 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 ```
 
@@ -126,43 +126,43 @@ Sunday                   570 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               17 hrs 55 mins      ████████████████████░░░░░   81.98 % 
-PHP                      1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Bash                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-CSS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+TypeScript               20 hrs 18 mins      ███████████████████████░░   91.64 % 
+Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+CSS                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 42 mins      ███████████████████████░░   90.19 % 
-Antigravity Desktop      1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Claude Code              22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+VS Code                  20 hrs 1 min        ███████████████████████░░   90.36 % 
+Antigravity Desktop      1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Claude Code              22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 💻 Operating System: 
-Mac                      21 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 28 mins (66.22%)
+⏱ AI Coding Time: 14 hrs 14 mins (64.21%)
 
-✍️ 5,646 lines written by AI, 1,354 lines written by hand (80.66% AI-written)
+✍️ 4,382 lines written by AI, 1,526 lines written by hand (74.17% AI-written)
 
-🔤 64,749,757 Input Tokens, 326,810 Output Tokens
+🔤 64,284,418 Input Tokens, 363,365 Output Tokens
 
-💵 $249.31 Estimated AI Cost This Week
+💵 $244.36 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 236 AI Prompts
+🧠 36 AI Sessions, 226 AI Prompts
 
-M                        7,540 lines         █████████████████████████   100.00 % 
+M                        5,286 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.66% of written lines came from AI
-📄 Detailed Prompter — average 1,041 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 39.1% of changed lines were hand-edited
+🤖 AI-Driven — 74.17% of written lines came from AI
+📄 Detailed Prompter — average 805 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 48.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -178,6 +178,6 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 23:36:12 UTC
+ Last Updated on 08/09/2026 00:05:28 UTC
 <!--END_SECTION:waka-->
 </details>
