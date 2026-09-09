@@ -93,28 +93,28 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
   <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C089%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C093%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-392%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-395%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.49%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                797 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-🌆 Daytime                2235 commits        █████████░░░░░░░░░░░░░░░░   34.79 % 
-🌃 Evening                1631 commits        ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-🌙 Night                  1761 commits        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+🌞 Morning                798 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+🌆 Daytime                2237 commits        █████████░░░░░░░░░░░░░░░░   34.81 % 
+🌃 Evening                1631 commits        ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+🌙 Night                  1761 commits        ███████░░░░░░░░░░░░░░░░░░   27.40 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1051 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Tuesday                  1149 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Wednesday                1002 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Thursday                 1369 commits        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-Friday                   736 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Monday                   1051 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Tuesday                  1149 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Wednesday                1005 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Thursday                 1369 commits        █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Friday                   736 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
 Saturday                 547 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 Sunday                   570 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 ```
@@ -126,57 +126,57 @@ Sunday                   570 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               20 hrs 57 mins      ███████████████████████░░   93.43 % 
-Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-CSS                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+TypeScript               16 hrs 42 mins      █████████████████████░░░░   82.91 % 
+PHP                      1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Blade Template           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 34 mins      ███████████████████████░░   91.74 % 
-Antigravity Desktop      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Claude Code              47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+VS Code                  18 hrs 20 mins      ███████████████████████░░   91.07 % 
+Antigravity Desktop      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Claude Code              40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 💻 Operating System: 
-Mac                      22 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 30 mins (60.24%)
+⏱ AI Coding Time: 12 hrs 38 mins (62.72%)
 
-✍️ 5,805 lines written by AI, 2,707 lines written by hand (68.2% AI-written)
+✍️ 5,791 lines written by AI, 2,427 lines written by hand (70.47% AI-written)
 
-🔤 80,661,808 Input Tokens, 454,899 Output Tokens
+🔤 81,660,762 Input Tokens, 434,599 Output Tokens
 
-💵 $297.37 Estimated AI Cost This Week
+💵 $311.17 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 232 AI Prompts
+🧠 39 AI Sessions, 221 AI Prompts
 
-M                        6,564 lines         █████████████████████████   100.00 % 
+M                        6,143 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 68.2% of written lines came from AI
-📚 Verbose Prompter — average 1,960 characters per prompt
+🤖 AI-Driven — 70.47% of written lines came from AI
+📚 Verbose Prompter — average 2,053 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 47.65% of changed lines were hand-edited
+🚀 High AI Trust — 48.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     33 repos            ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-TypeScript               29 repos            ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-PHP                      13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Dart                     33 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               30 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+PHP                      13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 
 
 
- Last Updated on 08/09/2026 23:56:25 UTC
+ Last Updated on 09/09/2026 23:55:30 UTC
 <!--END_SECTION:waka-->
 </details>
