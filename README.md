@@ -93,9 +93,9 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
   <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C105%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-401%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-404%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.49%20million%20lines%20of%20code-blue?style=flat)
 
@@ -126,7 +126,7 @@ Sunday                   570 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               16 hrs 48 mins      █████████████████████░░░░   83.03 % 
+TypeScript               16 hrs 47 mins      █████████████████████░░░░   83.03 % 
 PHP                      1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 Blade Template           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
@@ -139,21 +139,21 @@ Claude Code              51 mins             █░░░░░░░░░░�
 Codex CLI                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 💻 Operating System: 
-Mac                      20 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 27 mins (66.54%)
+⏱ AI Coding Time: 13 hrs 27 mins (66.53%)
 
 ✍️ 7,469 lines written by AI, 2,389 lines written by hand (75.77% AI-written)
 
-🔤 78,468,257 Input Tokens, 493,263 Output Tokens
+🔤 78,454,524 Input Tokens, 492,440 Output Tokens
 
-💵 $297.28 Estimated AI Cost This Week
+💵 $297.02 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 243 AI Prompts
+🧠 36 AI Sessions, 241 AI Prompts
 
 M                        7,344 lines         ████████████████████████░   95.61 % 
 GPT                      337 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
@@ -162,7 +162,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 75.77% of written lines came from AI
-📚 Verbose Prompter — average 1,673 characters per prompt
+📚 Verbose Prompter — average 1,686 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 37.35% of changed lines were hand-edited
 ```
@@ -180,6 +180,6 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 23:58:58 UTC
+ Last Updated on 12/09/2026 23:51:07 UTC
 <!--END_SECTION:waka-->
 </details>
