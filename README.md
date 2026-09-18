@@ -93,9 +93,9 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
   <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C116%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C118%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-412%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-415%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.50%20million%20lines%20of%20code-blue?style=flat)
 
@@ -126,45 +126,43 @@ Sunday                   570 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               14 hrs 28 mins      ██████████████████████░░░   88.88 % 
-Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Docker                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+TypeScript               15 hrs 9 mins       █████████████████████░░░░   84.92 % 
+Bash                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Docker                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 30 mins       ███████████████░░░░░░░░░░   58.34 % 
-Codex CLI                5 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.59 % 
-Antigravity Desktop      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+VS Code                  10 hrs 55 mins      ███████████████░░░░░░░░░░   61.19 % 
+Codex CLI                6 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   37.32 % 
+Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 💻 Operating System: 
-Mac                      16 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 8 mins (80.65%)
+⏱ AI Coding Time: 13 hrs 47 mins (77.27%)
 
-✍️ 9,319 lines written by AI, 450 lines written by hand (95.39% AI-written)
+✍️ 10,329 lines written by AI, 813 lines written by hand (92.7% AI-written)
 
-🔤 42,146,777 Input Tokens, 704,516 Output Tokens
+🔤 30,775,828 Input Tokens, 778,530 Output Tokens
 
-💵 $224.47 Estimated AI Cost This Week
+💵 $193.40 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 232 AI Prompts
+🧠 37 AI Sessions, 220 AI Prompts
 
-GPT                      7,830 lines         ███████████████████░░░░░░   76.11 % 
-M                        2,458 lines         ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      9,091 lines         ████████████████████░░░░░   79.05 % 
+M                        2,409 lines         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.39% of written lines came from AI
-📝 Concise Prompter — average 400 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 8.61% of changed lines were hand-edited
+🤖 AI-Driven — 92.7% of written lines came from AI
+📝 Concise Prompter — average 497 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 10.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -180,6 +178,6 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 00:00:21 UTC
+ Last Updated on 18/09/2026 23:58:37 UTC
 <!--END_SECTION:waka-->
 </details>
