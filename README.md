@@ -93,9 +93,9 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
   <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C130%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-421%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-424%20hrs%2033%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.51%20million%20lines%20of%20code-blue?style=flat)
 
@@ -126,44 +126,44 @@ Sunday                   570 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               11 hrs 59 mins      █████████████████████░░░░   83.79 % 
-Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+TypeScript               10 hrs 10 mins      █████████████████████░░░░   83.43 % 
+Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-Codex CLI                7 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.45 % 
-VS Code                  6 hrs 18 mins       ███████████░░░░░░░░░░░░░░   44.09 % 
-Claude Code              55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Codex CLI                6 hrs 8 mins        █████████████░░░░░░░░░░░░   50.28 % 
+VS Code                  5 hrs 15 mins       ███████████░░░░░░░░░░░░░░   43.07 % 
+Claude Code              48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 
 💻 Operating System: 
-Mac                      14 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 6 mins (84.56%)
+⏱ AI Coding Time: 10 hrs 1 min (82.18%)
 
-✍️ 7,341 lines written by AI, 1,275 lines written by hand (85.2% AI-written)
+✍️ 6,796 lines written by AI, 1,262 lines written by hand (84.34% AI-written)
 
-🔤 34,299,288 Input Tokens, 697,418 Output Tokens
+🔤 27,121,806 Input Tokens, 575,203 Output Tokens
 
-💵 $159.90 Estimated AI Cost This Week
+💵 $122.09 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 135 AI Prompts
+🧠 44 AI Sessions, 90 AI Prompts
 
-GPT                      5,941 lines         ████████████████████░░░░░   78.34 % 
-M                        1,641 lines         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+GPT                      5,378 lines         ████████████████████░░░░░   78.42 % 
+M                        1,478 lines         █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
 Codex-Cli                2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.2% of written lines came from AI
-📝 Concise Prompter — average 495 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 14.97% of changed lines were hand-edited
+🤖 AI-Driven — 84.34% of written lines came from AI
+📄 Detailed Prompter — average 520 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 16.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -179,6 +179,6 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 00:20:48 UTC
+ Last Updated on 25/09/2026 00:23:29 UTC
 <!--END_SECTION:waka-->
 </details>
