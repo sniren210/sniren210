@@ -93,9 +93,9 @@ I'm a dynamic Software Engineer and graduate from Universitas Terbuka with a deg
   <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C148%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C151%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-441%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-444%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.52%20million%20lines%20of%20code-blue?style=flat)
 
@@ -126,43 +126,45 @@ Sunday                   571 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               8 hrs 26 mins       ███████████████░░░░░░░░░░   61.24 % 
-PHP                      3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+TypeScript               7 hrs 15 mins       ████████████░░░░░░░░░░░░░   48.17 % 
+PHP                      4 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.59 % 
+Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+R                        21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-Codex CLI                8 hrs 56 mins       ████████████████░░░░░░░░░   64.88 % 
-VS Code                  4 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.86 % 
-Claude Code              35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Codex CLI                8 hrs 11 mins       ██████████████░░░░░░░░░░░   54.42 % 
+VS Code                  6 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   41.69 % 
+Claude Code              35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 💻 Operating System: 
-Mac                      13 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 41 mins      ████████████████████████░   97.66 % 
+Windows                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 27 mins (90.41%)
+⏱ AI Coding Time: 11 hrs 41 mins (77.68%)
 
-✍️ 9,357 lines written by AI, 91 lines written by hand (99.04% AI-written)
+✍️ 10,235 lines written by AI, 137 lines written by hand (98.68% AI-written)
 
-🔤 42,527,217 Input Tokens, 763,364 Output Tokens
+🔤 38,733,232 Input Tokens, 715,591 Output Tokens
 
-💵 $219.04 Estimated AI Cost This Week
+💵 $199.00 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 131 AI Prompts
+🧠 46 AI Sessions, 125 AI Prompts
 
-GPT                      8,433 lines         █████████████████████░░░░   83.41 % 
-M                        1,677 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+GPT                      9,530 lines         ██████████████████████░░░   87.28 % 
+M                        1,389 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.04% of written lines came from AI
-📄 Detailed Prompter — average 863 characters per prompt
+🤖 AI-Driven — 98.68% of written lines came from AI
+📄 Detailed Prompter — average 877 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 26.78% of changed lines were hand-edited
+🚀 High AI Trust — 15.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -178,6 +180,6 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 01:18:46 UTC
+ Last Updated on 08/10/2026 01:39:17 UTC
 <!--END_SECTION:waka-->
 </details>
