@@ -126,42 +126,42 @@ Sunday                   571 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               10 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   40.27 % 
-Markdown                 3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-PHP                      2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Bash                     2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Other                    2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+TypeScript               6 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+PHP                      4 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+Markdown                 3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Other                    3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Bash                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   37.12 % 
-Codex Vscode             7 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-Claude Code              5 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Codex CLI                3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Codex Vscode             10 hrs 8 mins       ███████████░░░░░░░░░░░░░░   43.38 % 
+VS Code                  8 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   37.64 % 
+Claude Code              3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Codex CLI                1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 💻 Operating System: 
-Mac                      25 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 43 mins (91.94%)
+⏱ AI Coding Time: 21 hrs 23 mins (91.51%)
 
-✍️ 29,272 lines written by AI, 386 lines written by hand (98.7% AI-written)
+✍️ 16,488 lines written by AI, 358 lines written by hand (97.87% AI-written)
 
-🔤 62,969,314 Input Tokens, 1,968,648 Output Tokens
+🔤 35,165,273 Input Tokens, 1,787,762 Output Tokens
 
-💵 $106.77 Estimated AI Cost This Week
+💵 $84.52 Estimated AI Cost This Week
 
-🧠 59 AI Sessions, 195 AI Prompts
+🧠 52 AI Sessions, 198 AI Prompts
 
-GPT                      18,067 lines        █████████████████████████   100.00 % 
+GPT                      13,616 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.7% of written lines came from AI
-📚 Verbose Prompter — average 1,548 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.56% of changed lines were hand-edited
+🤖 AI-Driven — 97.87% of written lines came from AI
+📚 Verbose Prompter — average 1,528 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -177,6 +177,6 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 23:55:47 UTC
+ Last Updated on 27/10/2026 01:16:38 UTC
 <!--END_SECTION:waka-->
 </details>
